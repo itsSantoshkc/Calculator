@@ -1,2 +1,2 @@
 # Calculator
-I just started to learn python. So, This is my first project i.e calculator.
+I just started  learning python. So, This is my first project i.e calculator.
